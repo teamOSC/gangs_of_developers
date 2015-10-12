@@ -15,3 +15,8 @@ _Na koi kisi ka raqeeb hota hai ... na koi kisi ka habeeb hota hai ... khuda ki 
 **Developer joh hai bas do nasal ke hote hai ... ek hote hai front end aur doosre backend**   
 _Insaan joh hai bas do nasal ke hote hai ... ek hote hai haraami aur doosre bewakoof_   
 
+
+**Ping Ping Ping. Itna request marenge ki pura server dhuan dhuan ho jaega. Backend ke ek ek module se pura stacktrace nikalwaenge. Ping Ping Ping**
+
+
+
