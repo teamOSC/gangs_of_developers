@@ -96,5 +96,8 @@ _Insaan joh hai bas do nasal ke hote hai ... ek hote hai haraami aur doosre bewa
 
 **Ping Ping Ping. Itna request marenge ki pura server dhuan dhuan ho jaega. Backend ke ek ek module se pura stacktrace nikalwaenge. Ping Ping Ping**
 
+**Frontend Ka Backend Ka Sabka code likhega re tera Faisal**
+
+**Beta tumse na ho payega tum bas photoshop hi karo**
 
 
