@@ -93,11 +93,11 @@ _Na koi kisi ka raqeeb hota hai ... na koi kisi ka habeeb hota hai ... khuda ki 
 **Developer joh hai bas do nasal ke hote hai ... ek hote hai front end aur doosre backend**   
 _Insaan joh hai bas do nasal ke hote hai ... ek hote hai haraami aur doosre bewakoof_   
 
+**Har feature wafadar nahi hota, har code chamakdar nahi hota, na jaane kitne OS use kare, koi OS Windows jitna bekaar nahi hota**
+_Har yaar wafadar nahi hota, har patthar chamakdar nahi hota, na jaane ban me kitne phool khile hain, har phool khushbudaar nahin hota_
 
 **Ping Ping Ping. Itna request marenge ki pura server dhuan dhuan ho jaega. Backend ke ek ek module se pura stacktrace nikalwaenge. Ping Ping Ping**
 
 **Frontend Ka Backend Ka Sabka code likhega re tera Faisal**
 
 **Beta tumse na ho payega tum bas photoshop hi karo**
-
-
