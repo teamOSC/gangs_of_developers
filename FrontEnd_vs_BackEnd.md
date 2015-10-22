@@ -101,3 +101,6 @@ _Har yaar wafadar nahi hota, har patthar chamakdar nahi hota, na jaane ban me ki
 **Frontend Ka Backend Ka Sabka code likhega re tera Faisal**
 
 **Beta tumse na ho payega tum bas photoshop hi karo**
+
+**Aapko pata hai ki ye app developers kaa bolta hai ? Ki Backend waala sab python ka gaand chaat ta hai.
+Kaa baat kar rahe hai :P**
