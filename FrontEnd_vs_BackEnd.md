@@ -104,3 +104,5 @@ _Har yaar wafadar nahi hota, har patthar chamakdar nahi hota, na jaane ban me ki
 
 **Aapko pata hai ki ye app developers kaa bolta hai ? Ki Backend waala sab python ka gaand chaat ta hai.
 Kaa baat kar rahe hai :P**
+
+**Ab to profile bhi banegi, portfolio bhi banega. Fir project kubool hai, kubool hai kubool hai. Ee humko kubool nai na**
